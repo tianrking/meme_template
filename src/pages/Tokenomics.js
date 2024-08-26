@@ -3,8 +3,8 @@
 // const Tokenomics = () => {
 //   return (
 //     <div style={{ textAlign: 'center', color: 'white', padding: '2rem' }}>
-//       <h1>POGAI Tokenomics</h1>
-//       <p>Details about POGAI token distribution and economics coming soon.</p>
+//       <h1>EPT Tokenomics</h1>
+//       <p>Details about EPT token distribution and economics coming soon.</p>
 //     </div>
 //   );
 // };

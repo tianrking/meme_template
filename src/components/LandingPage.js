@@ -7,11 +7,11 @@ const LandingPage = () => {
       <div className="text-center">
         <img
           src="/api/placeholder/120/120"
-          alt="POGAI Logo"
+          alt="EPT Logo"
           className="w-24 h-24 mx-auto mb-4 rounded-full"
         />
-        <h1 className="text-4xl font-bold mb-2">POGAI</h1>
-        <p className="text-xl mb-8">PROOF OF GREAT AI</p>
+        <h1 className="text-4xl font-bold mb-2">EPT</h1>
+        <p className="text-xl mb-8">EcoPenguin Token</p>
         <div className="space-x-4">
           <Link
             to="/about"

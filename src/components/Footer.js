@@ -10,7 +10,7 @@ const Footer = () => {
 
   return (
     <footer style={footerStyle}>
-      <p>Copyright © 2024 Pogai</p>
+      <p>Copyright © 2024 EPT</p>
     </footer>
   );
 };
