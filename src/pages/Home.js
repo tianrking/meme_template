@@ -13,6 +13,8 @@ import twitterLogo from '../X_logo.jpg'; // 请确保你有这个图片
 import discordLogo from '../X_logo.jpg'; // 请确保你有这个图片
 
 import Footer from '../components/Footer'; // 导入 Footer 组件
+import Header from '../components/Header';
+
 const Home = () => {
   const pageStyle = {
     minHeight: '100vh',
@@ -82,7 +84,9 @@ const Home = () => {
   };
 
   return (
+    
     <div style={pageStyle}>
+        <Header / >
       <div style={contentStyle}>
         <h1 style={{ fontSize: '2.5rem', marginBottom: '30px', textAlign: 'center' }}>ABOUT US</h1>
         <div style={flexContainerStyle}>
