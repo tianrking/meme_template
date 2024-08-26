@@ -32,7 +32,7 @@ const Header = () => {
       <Link to="/how-to-buy" style={linkStyle}>HOW TO BUY</Link>
       <Link to="/tokenomics" style={linkStyle}>TOKENOMICS</Link>
       <Link to="/contact" style={linkStyle}>CONTACT</Link>
-      <a href="#" style={linkStyle}>中文版</a>
+      {/* <a href="#" style={linkStyle}>中文版</a> */}
     </nav>
   );
 };
